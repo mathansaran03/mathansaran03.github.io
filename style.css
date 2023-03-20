@@ -1,0 +1,122 @@
+.body-container {
+    background-color: rgb;(199, 233, 255);
+    font-family: 'Lucida Sans';
+}
+
+.logo {
+    border-style: dashed;
+    width: 50%;
+    background-color: gold;
+    font-size: 22px;
+    font-family: cursive;
+    border-radius: 20px 40px;
+    color: black;
+    text-align: center;
+    margin: auto;
+}
+.logo img{
+    float: right;
+    margin-right: 13%;
+}
+
+.quote-container {
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    border-style: groove;
+    line-height: 1;
+    font-size: 20px;
+    font-family: palatino;
+    color: rgb(255, 213, 74);
+    background-color: black;
+    width: 95%;
+    border-radius: 80px 20px;
+}
+
+.search {
+    width: 50%;
+    line-height: 2;
+    border: none;
+    border-radius: 10px;
+    float: left;
+    margin-left: 47%;
+    display: block;
+}
+
+table td {
+    background-color: blueviolet;
+    color: firebrick;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    transition: background-color .5s;
+}
+
+a:hover {
+    background-color: darkkhaki;
+    color: gold;
+    animation-direction: alternate-reverse;
+}
+
+.head {
+    border-style: double;
+    line-height: 1;
+    background-color: rgb(0, 136, 255);
+    width: 100%;
+    padding: 5px;
+}
+
+.p-head {
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+}
+
+.products {
+    margin-left: 2%;
+    margin-right: 2%;
+    border-style: double;
+    border-color: indigo;
+    line-height: 1;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    color: black;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.product-head {
+    margin-left: 20%;
+    font-size: 28px;
+    line-height: 0.40;
+}
+
+.product-detail {
+    margin-left: 20%;
+    font-size: 15px;
+    line-height: 1.50;
+    color: gray;
+}
+
+.cost {
+    font-size: 30px;
+    color: orangered;
+}
+
+.rate {
+    font-size: 33px;
+    color: gold;
+}
+
+.br {
+    display: block;
+    margin-bottom: 2px;
+}
+
+.final {
+    line-height: 1;
+    background-color: rgb(0, 136, 255);
+    width: 100%;
+}
